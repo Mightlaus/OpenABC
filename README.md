@@ -1,4 +1,6 @@
-# Convert PyG (<2.0) OPENABC data to a format readable by PyG >=2.0.
+# Convert OPENABC ML data to a format readable by PyG >=2.0.
+> The processed data are available to download at [ZENODO](https://zenodo.org/records/18153026).
+
 
 Environment assumptions:
 - `openabc_old`: can read original data `.pt/.pt.zip` (PyG <2.0).
